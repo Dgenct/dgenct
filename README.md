@@ -1,4 +1,5 @@
-<h1>Dgenct: seguro, eficaz, innovador<h1>
+<center> <h1>Dgenct: seguro, eficaz, innovador<h1> </center>
+  
   
 > # Table of Contents
 > ### 1. _Resumen del proyecto_
