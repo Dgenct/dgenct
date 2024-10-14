@@ -1,7 +1,7 @@
 <center> <h1>Dgenct: seguro, eficaz, innovador<h1> </center>
   
   
-> # Table of Contents
+> # Índice
 > ### 1. _Resumen del proyecto_
 > ### 2. _Misión y visión_
 > ### 3. _Funciones y características de la plataforma_
